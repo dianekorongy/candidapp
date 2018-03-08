@@ -1,7 +1,4 @@
-﻿/*!
-* Created by Kroplet (https://www.kroplet.com) 
-* The easiest way to create Bootstrap 4 themes. 
-*/
+
 
 /*Google fonts*/
 @import url('https://fonts.googleapis.com/css?family=Catamaran:200,300,400,500,600,700,900');
@@ -85,7 +82,7 @@ section{
 }
 /*===============================================
 * Background Colors
-================================================*/
+
 .bg-texture{
     background:-webkit-linear-gradient(-45deg, #ffb300 33%, transparent 0%),
         linear-gradient(-45deg, #512DA8 100%, transparent 33%);
@@ -105,6 +102,7 @@ section{
         linear-gradient(-45deg, #512DA8 67%, transparent 33%),
         linear-gradient(-45deg, #ffb300 100%, transparent 67%);
 }
+================================================*/
 .bg-alt {
     background-color: #fff;
 }
@@ -117,6 +115,7 @@ section{
 .bg-primary{
     background-color: #512DA8 !important;
 }
+/*
 .bg-orange{
     background-color: #ffb300;
 }
