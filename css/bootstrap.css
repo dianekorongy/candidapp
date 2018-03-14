@@ -12,7 +12,6 @@
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
-  --purple: #6f42c1;
   --pink: #e83e8c;
   --red: #dc3545;
   --orange: #fd7e14;
@@ -6525,12 +6524,12 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 10px; }
 
 a {
-  color: #512DA8;
+  color: #3772ce70;
   transition: all .35s; }
 
 a:hover,
 a:focus {
-  color: #512DA8;
+  color: #3772ce70;
   outline: 0;
   text-decoration: none; }
 
@@ -6548,7 +6547,7 @@ section {
   width: 120px; }
 
 .card-outline-primary {
-  border: solid 1px #512DA8; }
+  border: solid 1px #3772ce70; }
 
 .sticky-navigation {
   top: -100px; }
@@ -6557,10 +6556,10 @@ section {
 * Background Colors
 ================================================*/
 .bg-texture {
-  background: linear-gradient(-45deg, #ffb300 33%, transparent 0%), linear-gradient(-45deg, #512DA8 100%, transparent 33%); }
+  background: linear-gradient(-45deg, #ffb300 33%, transparent 0%), linear-gradient(-45deg, #3772ce70 100%, transparent 33%); }
 
 .bg-texture-collage {
-  background: linear-gradient(-45deg, #ffb300 33%, transparent 0%), linear-gradient(-45deg, #512DA8 67%, transparent 33%), linear-gradient(-45deg, #ffb300 100%, transparent 67%); }
+  background: linear-gradient(-45deg, #ffb300 33%, transparent 0%), linear-gradient(-45deg, #3772ce70 67%, transparent 33%), linear-gradient(-45deg, #ffb300 100%, transparent 67%); }
 
 .bg-alt {
   background-color: #fff; }
@@ -6572,7 +6571,7 @@ section {
   background-color: #F9F9FA; }
 
 .bg-primary {
-  background-color: #512DA8 !important; }
+  background-color: #3772ce70 !important; }
 
 .bg-orange {
   background-color: #ffb300; }
@@ -6597,7 +6596,7 @@ section {
   text-decoration: none; }
 
 .text-primary {
-  color: #512DA8 !important; }
+  color: #3772ce70 !important; }
 
 .text-orange {
   color: #ffb300 !important; }
@@ -6625,7 +6624,7 @@ section {
 
 .icon-box {
   color: #fff;
-  background-color: #512DA8;
+  background-color: #3772ce70;
   vertical-align: middle;
   border-radius: 50px !important;
   padding: 12px;
@@ -6651,7 +6650,7 @@ section {
   background: rgba(255, 255, 255, 0.2) !important; }
 
 .btn-white {
-  color: #512DA8;
+  color: #3772ce70;
   background-color: #fff;
   border-color: #fff; }
 
@@ -6660,8 +6659,8 @@ section {
   color: #fff !important; }
 
 .btn-primary {
-  background-color: #512DA8 !important;
-  border-color: #512DA8 !important; }
+  background-color: #3772ce70 !important;
+  border-color: #3772ce70 !important; }
 
 .btn-radius {
   border-radius: 50px; }
